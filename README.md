@@ -9,12 +9,12 @@
 6. [Auteur](#auteur)
 
 ## Aperçu
+![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/df8818f5-f562-4997-a26c-929393b16a5b)
 
 Le projet de Système de Gestion de Salles et de Machines est une application web basée sur JavaServer Pages (JSP). Il vise à faciliter la gestion des salles et des machines au sein d'une organisation. L'application offre les fonctionnalités suivantes :
 
 - Création, lecture, mise à jour et suppression (CRUD) des salles et des machines.
 - Recherche des machines disponibles dans chaque salle.
-![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/1d0aaf29-c026-4c80-b006-ea58cc3a09af)
 
 ## Structure du Projet
 
