@@ -14,7 +14,7 @@ Le projet de Système de Gestion de Salles et de Machines est une application we
 
 - Création, lecture, mise à jour et suppression (CRUD) des salles et des machines.
 - Recherche des machines disponibles dans chaque salle.
-![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/4086defa-6be2-47a8-bf09-54a2754638b8)
+![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/1d0aaf29-c026-4c80-b006-ea58cc3a09af)
 
 ## Structure du Projet
 
