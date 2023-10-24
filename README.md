@@ -49,3 +49,11 @@ Pour déployer et exécuter l'application :
 5. Accédez à l'application depuis votre navigateur web en utilisant l'URL correspondante (par exemple, `http://localhost:8080/RoomMachineManagement`). Assurez-vous d'adapter l'URL en fonction de votre configuration de serveur.
 
 6. Vous pouvez désormais utiliser l'interface web pour gérer les salles et les machines.
+
+### Clonage du Projet
+
+1. Ouvrez votre terminal ou invite de commandes.
+
+2. Utilisez la commande `git` pour cloner le projet depuis GitHub :
+   ```bash
+   git clone https://github.com/Ghaziyassine/TP-JSP-Servlet.git
