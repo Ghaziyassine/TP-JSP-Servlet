@@ -15,13 +15,19 @@ Le projet de Système de Gestion de Salles et de Machines est une application we
 - Recherche des machines disponibles dans chaque salle.
 ## Captures d'écran
 Main menu:
-![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/a5b36d53-1006-4a4d-bad4-f5de033108dd)
+![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/47e68a76-4d2a-471c-9973-190fd242874e)
+
 Gestion des machines:
-![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/1d697d6a-8575-4896-9376-e0611c883b9c)
+![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/37cec0dd-1fb6-43be-ab09-7c9edf040f0c)
+
 
 
 Gestion des Salles:
-![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/02bd7a70-56c5-4c60-a7ab-a8e1cf53fc2b)
+![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/3753a091-e587-4401-ae21-50456698e534)
+
+
+Page de Recherche:
+![image](https://github.com/Ghaziyassine/TP-JSP-Servlet/assets/114885285/11c1e744-4c74-42a1-b9b9-6e7598b0c2cb)
 
 ## Structure du Projet
 
